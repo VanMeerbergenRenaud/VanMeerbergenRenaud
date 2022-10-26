@@ -9,7 +9,7 @@ VanMeerbergenRenaud/VanMeerbergenRenaud is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)" width="200"/>
 </div>
 <div>
   <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
