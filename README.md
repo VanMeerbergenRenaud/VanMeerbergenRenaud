@@ -41,7 +41,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <img width="50%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
 
-<div> WAW </div>
+---
 
 <img width="75%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud">
 
