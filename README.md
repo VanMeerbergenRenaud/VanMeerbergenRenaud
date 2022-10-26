@@ -46,6 +46,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
+  <p>Joke of the day 🤣</p>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card" />
 </div>
 
