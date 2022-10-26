@@ -12,7 +12,7 @@
 ---
 
 ### :man_technologist: A propos de moi :
-I'm currently to be a full stack developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
+I'm currently learning to be a full stack developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
 
 - 👀 I’m interested in coding Websites and Apps
 - 💞️ I’m looking to collaborate on cypto projects
@@ -40,8 +40,7 @@ I'm currently to be a full stack developper <img src="https://media.giphy.com/me
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
