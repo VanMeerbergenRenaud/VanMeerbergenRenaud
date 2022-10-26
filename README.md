@@ -38,13 +38,13 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
  ---
 
 ### :fire: My Stats :
-<div id="header" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+ 
+![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
