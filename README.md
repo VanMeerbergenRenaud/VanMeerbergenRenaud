@@ -47,6 +47,6 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <div align="center">
   <p>Joke of the day 🤣</p>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=graywhite" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />
 </div>
 
