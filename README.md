@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
 </h1>
 <div align="center">
