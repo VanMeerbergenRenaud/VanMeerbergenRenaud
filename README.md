@@ -43,6 +43,9 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
 </div>
+
