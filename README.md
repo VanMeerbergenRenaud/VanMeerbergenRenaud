@@ -16,10 +16,9 @@
 ---
 
 ### :woman_technologist: A propos de moi :
-I am a learning Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
-- 👋 Hi, I’m @VanMeerbergenRenaud
+I'm currently to be a full stack developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
+
 - 👀 I’m interested in coding Websites and Apps
-- 🌱 I’m currently learning to be a full stack developper
 - 💞️ I’m looking to collaborate on cypto projects
 - 📫 You can reach me by email on renaud.vanmeerbergen@gmail.com
 
