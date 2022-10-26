@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -19,7 +22,7 @@ I'm currently to be a full stack developper <img src="https://media.giphy.com/me
 
 ### :hammer_and_wrench: My Languages and Tools :
 
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -39,9 +42,7 @@ I'm currently to be a full stack developper <img src="https://media.giphy.com/me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
 </div>
