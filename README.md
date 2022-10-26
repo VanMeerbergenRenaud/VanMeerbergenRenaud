@@ -41,16 +41,9 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
  
-![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg text-align="center")
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</a>
-<a href="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanMeerbergenRenaud&repo=convoychat" />
-</a>
 
 <div align="center">
   <p>Joke of the day 🤣</p>
