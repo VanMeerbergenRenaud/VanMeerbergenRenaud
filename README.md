@@ -50,6 +50,6 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="200"/>
 </div>
 
-<a>[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)</a>
+<a align="center">[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)</a>
 <p align="center">You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:</p>
-<p>Thanks for reading! :heart:</p>
+<p align="center">Thanks for reading! :heart:</p>
