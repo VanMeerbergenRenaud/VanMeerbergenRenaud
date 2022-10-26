@@ -11,7 +11,7 @@
 
 ---
 
-### :woman_technologist: A propos de moi :
+### :man_technologist: A propos de moi :
 I'm currently to be a full stack developper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belgium.
 
 - 👀 I’m interested in coding Websites and Apps
