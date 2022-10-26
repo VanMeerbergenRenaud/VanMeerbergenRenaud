@@ -1,10 +1,3 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
-</div>
 <h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -37,3 +30,18 @@ I'm currently to be a full stack developper <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MSQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-plain-wordmark.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
  </div>
+ 
+ ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
+</div>
