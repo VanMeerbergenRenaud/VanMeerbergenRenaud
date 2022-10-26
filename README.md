@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="650" height="400"/>
 </div>
 
 ---
@@ -47,6 +47,6 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <div align="center">
   <p>Joke of the day 🤣</p>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="200"/>
 </div>
 
