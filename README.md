@@ -39,19 +39,17 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 ### :fire: My Stats :
 
-<img width="50%" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
+<img width="50%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud">
+<img width="75%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud">
 
 ![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <p>Joke of the day 🤣</p>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="200"/>
 </div>
 
-[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra)
+<img width="25%" align="center" src="https://ionicabizau.github.io/badges/paypal.svg">
 <p align="center">You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:</p>
 <p align="center">Thanks for reading&nbsp;! :heart:</p>
