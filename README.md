@@ -45,6 +45,13 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/VanMeerbergenRenaud/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanMeerbergenRenaud&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/VanMeerbergenRenaud/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VanMeerbergenRenaud&repo=convoychat" />
+</a>
+
 <div align="center">
   <p>Joke of the day 🤣</p>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="200"/>
