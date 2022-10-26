@@ -39,11 +39,11 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 ### :fire: My Stats :
 
-<img width="50%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
+<img width="45%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud">
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VanMeerbergenRenaud">
 
-![Snake animation](https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg)
+<img width="90%" src="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg">
 
 ---
 ### :fire: Me everyday :
