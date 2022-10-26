@@ -38,10 +38,11 @@ I'm currently to be a full stack developper <img src="https://media.giphy.com/me
 
 ### :fire: My Stats :
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud)](https://github.com/anuraghazra/github-readme-stats)
-
+</div
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="400"/>
