@@ -62,4 +62,4 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <p align="center">You can make one-time donations via PayPal. I'll probably buy a coffee or a tea. :tea:</p>
 <img width="10%" align="right" src="https://ionicabizau.github.io/badges/paypal.svg">
-<p align="center">Thanks for reading&nbsp;! :heart:</p>
+<p align="center">    Thanks for reading&nbsp;! :heart:</p>
