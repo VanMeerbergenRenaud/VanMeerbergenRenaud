@@ -39,11 +39,11 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 ### :fire: My Stats :
 
-<!--START_SECTION:waka align="center" -->
+<!--START_SECTION:waka -->
 
 ```text
-JavaScript   30 mins         ███████████████████████▓░   94.50 %
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+          JavaScript   30 mins         ███████████████████████▓░   94.50 %
+          HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
 
 <!--END_SECTION:waka-->
