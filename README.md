@@ -39,7 +39,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 ### :fire: My Stats :
 
-<img width="80%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
+<img width="38%" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
 
 <!--START_SECTION:waka-->
 
