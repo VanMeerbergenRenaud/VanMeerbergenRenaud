@@ -39,9 +39,9 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 ### :fire: My Stats :
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka align="center" -->
 
-```text align="center"
+```text
 JavaScript   30 mins         ███████████████████████▓░   94.50 %
 HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 ```
