@@ -56,7 +56,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 ### :fire: Me everyday :
 
 <div align="center">
-  <p>Joke of the day 🤣</p>
+  <i>Joke of the day 🤣</i>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="250"/>
 </div>
 
