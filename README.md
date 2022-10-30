@@ -57,7 +57,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <div align="center">
   <p><i>Joke of the day 🤣</i></p>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="250"/>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=react" alt="Jokes Card" width="280">
 </div>
 
 <p align="center">You can make one-time donations via PayPal. I'll probably buy a coffee or a tea. :tea:</p>
