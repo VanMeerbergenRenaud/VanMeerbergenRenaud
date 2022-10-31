@@ -40,12 +40,6 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 ### :fire: My Stats :
 
 <!--START_SECTION:waka -->
-
-```text
-                        JavaScript   59 mins         ███████████████████████▓░   94.50 %
-                        HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-```
-
 <!--END_SECTION:waka-->
 
 <img width="100%" height="220" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
