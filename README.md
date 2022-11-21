@@ -41,15 +41,10 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <img width="100%" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud&langs_count=5">
 
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <img width="100%" align="center" src="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg">
 
