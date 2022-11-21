@@ -41,7 +41,15 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 
 <img width="100%" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanMeerbergenRenaud&langs_count=5">
 
-<img width="100%" height="220" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VanMeerbergenRenaud&theme=neon-palenight&border_radius=5&date_format=j%2Fn%5B%2FY%5D">
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 <img width="100%" align="center" src="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg">
 
