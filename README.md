@@ -56,9 +56,6 @@ XML              14 mins         -------------------------   00.33 %
 
 <!--END_SECTION:waka-->
 
-
-<img width="100%" align="center" src="https://github.com/VanMeerbergenRenaud/VanMeerbergenRenaud/blob/output/github-contribution-grid-snake.svg">
-
 ---
 ### :fire: Me everyday :
 
