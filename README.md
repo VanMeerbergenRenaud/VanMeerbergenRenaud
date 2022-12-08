@@ -42,15 +42,15 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 05 December 2022
+From: 25 October 2022 - To: 06 December 2022
 
-Total Time: 81 hrs 58 mins
+Total Time: 82 hrs 35 mins
 
-JavaScript       47 hrs 31 mins  >>>>>>>>>>>>>>-----------   57.99 %
-CSS              16 hrs 21 mins  >>>>>--------------------   19.96 %
-HTML             12 hrs 24 mins  >>>>---------------------   15.14 %
-SQL              2 hrs 15 mins   >------------------------   02.75 %
-Markdown         1 hr 37 mins    -------------------------   01.98 %
+JavaScript       47 hrs 32 mins  >>>>>>>>>>>>>>-----------   57.55 %
+CSS              16 hrs 48 mins  >>>>>--------------------   20.35 %
+HTML             12 hrs 35 mins  >>>>---------------------   15.24 %
+SQL              2 hrs 15 mins   >------------------------   02.73 %
+Markdown         1 hr 37 mins    -------------------------   01.97 %
 PHP              54 mins         -------------------------   01.11 %
 ```
 
