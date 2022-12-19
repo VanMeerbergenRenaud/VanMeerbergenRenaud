@@ -42,7 +42,7 @@ I'm currently learning to be a full stack developper <img src="https://media.gip
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 October 2022 - To: 16 December 2022
+From: 25 October 2022 - To: 17 December 2022
 
 Total Time: 121 hrs 29 mins
 
