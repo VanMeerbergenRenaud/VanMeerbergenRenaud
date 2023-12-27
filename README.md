@@ -28,7 +28,7 @@
 ### How I can describe what I'm coding ? I have no idea but it's :
 
 <div>
-    <img width="50%" height="100%" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
-    <img width="49%" height="100%" src="https://media4.giphy.com/media/XHGAHOCzT1tV8kk0gA/200w.gif?cid=6c09b952bx1uvpvdy9awmnkiwp1p8p7orvnjo8016fmv84im&ep=v1_gifs_search&rid=200w.gif&ct=g">
+    <img width="51%" height="100%" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
+    <img width="48%" height="100%" src="https://media4.giphy.com/media/XHGAHOCzT1tV8kk0gA/200w.gif?cid=6c09b952bx1uvpvdy9awmnkiwp1p8p7orvnjo8016fmv84im&ep=v1_gifs_search&rid=200w.gif&ct=g">
 </div>
 
