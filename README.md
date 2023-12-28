@@ -1,5 +1,3 @@
-# Hi there 😎
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=VanMeerbergenRenaud&style=flat-square&color=blue" alt=""/>
 </p>
