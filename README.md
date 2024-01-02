@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://renaud-vmb.com" title="Aller vers mon site professionnel" tabindex="0">
+  <a href="https://renaud-vmb.com" title="Aller vers mon site professionnel">
       <img src="./Banner-Github.jpg" width="1350" height="auto"/>
   </a>
 </div>
