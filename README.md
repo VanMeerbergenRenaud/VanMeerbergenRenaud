@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
-  <img src="./Banner-Github.jpg" width="1350" height="auto"/>
+  <a href="https://renaud-vmb.com" title="Aller vers mon site professionnel" tabindex="0">
+      <img src="./Banner-Github.jpg" width="1350" height="auto"/>
+  </a>
 </div>
 
 ## My Languages and Tools :
