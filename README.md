@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" title="Go to the website of Skillicons">
-    <img src="https://skillicons.dev/icons?i=html,sass,typescript,php,laravel,mysql,flutter,alpinejs,phpstorm,figma,apple,wordpress" alt="Logos of the tools I'm using everyday" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,postgres,tailwind,alpinejs,phpstorm,flutter,figma" alt="Logos of the tools I'm using everyday" />
   </a>
 </p>
 
