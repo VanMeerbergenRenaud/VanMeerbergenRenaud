@@ -16,14 +16,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <a href="https://monkeytype.com/profile/RenaudVmb" title="Go to my Monkeytype profile">
-    <img src="https://raw.githubusercontent.com/VanMeerbergenRenaud/VanMeerbergenRenaud/monkeytype-readme/monkeytype-readme.svg" alt="My Monkeytype profile" />
-  </a>
-</p>
-
  ---
 
 <div align="center" width="100%">
