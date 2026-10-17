@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://renaud-vmb.com" title="Go to my official website">
-      <img src="./Banner-Github.jpg" width="1350" height="auto" alt="Banner of my self"/>
+      <img src="./Banner-Github.png" width="1350" height="auto" alt="Banner of my self"/>
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" title="Go to the website of Skillicons">
-    <img src="https://skillicons.dev/icons?i=laravel,php,postgres,tailwind,alpinejs,phpstorm,flutter,figma" alt="Logos of the tools I'm using everyday" />
+    <img src="https://skillicons.dev/icons?i=laravel,statamic,livewire,php,postgres,tailwind,alpinejs,phpstorm,flutter,figma" alt="Logos of the tools I'm using everyday" />
   </a>
 </p>
 
